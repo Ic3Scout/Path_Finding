@@ -1,6 +1,8 @@
 # gc-simple-render
 A simple rendering library for 2D and 3D and using GCRender has the rendering backend. 
 
+Setup : Faire un make dans le bin et lancer la solution sur visula studio s'il n'y a pas d'executable
+
 # Inputs 3D
 UP-DOWN-RIGHT_LEFT = Move Cursor.  
 B = Toggle walkable state of selected cell.  
